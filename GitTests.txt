@@ -1,3 +1,8 @@
 im a new repo
 this is my second branch
+<<<<<<< HEAD
 this is a diff.
+=======
+this is a diff.
+this branch has a 4th line
+>>>>>>> aSecondBranch
